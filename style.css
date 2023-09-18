@@ -1,0 +1,36 @@
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .logo{
+    color: #2B3252;
+    font-size: 3rem;
+    letter-spacing: 9px;
+  }
+  .header-text{
+    color: #2B3252;
+    font-size: 1.5rem;
+  }
+  .blue-text{
+    color: #2B3252;
+  }
+  .akash-photo{
+    max-height: 300px;
+    min-height: 300px;
+    max-width: 300px;
+    min-height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .image-replace{
+    height: 180px;
+  }
+  .carousal-image{
+    max-height: 550px;
+    width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+  }
+  .carousal-text{
+  }
